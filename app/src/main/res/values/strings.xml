@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Agua y Ciudad</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="active_report">Reportes Activos</string>
+    <string name="report_button">Reportar</string>
+    <string name="title_activity_new_report_activity">new_report_activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="location_button">Cambiar Ubicación</string>
+    <string name="name_button">Nombre</string>
+    <string name="last_name_button">Apellido</string>
+    <string name="camera_text">Tomar foto</string>
+    <string name="camera_button">Tomar foto</string>
+    <string name="map_message">MAPA</string>
+
+    <string-array name="report_type">
+        <item>Fuga de Agua</item>
+        <item>Falta de Servicio de Agua</item>
+        <item>Contaminación de Agua</item>
+        <item>Desborde de río</item>
+        <item>Alcantarillado perforado</item>
+        <item>Deslave</item>
+    </string-array>
+    <string-array name="list_view_report_summary">
+        <item>Reporte 1<subitem>Dinero</subitem></item>
+        <item>Reporte 2<subitem>Dinero es Dinero</subitem></item>
+        <item>Reporte 3<subitem>Dinero, Dinero</subitem></item>
+        <item>Reporte 4<subitem>La monarquía española</subitem></item>
+        <item>Reporte 5</item>
+        <item>Reporte 6</item>
+        <item>Reporte 7</item>
+        <item>Reporte 8</item>
+        <item>Reporte 9</item>
+        <item>Reporte 10</item>
+        <item>Reporte 11</item>
+        <item>Reporte 12</item>
+        <item>Reporte 13</item>
+    </string-array>
+
+    <string name="title_activity_report_summary">report_summary</string>
+    <string name="title_activity_report_status_view">report_status_view</string>
+
+</resources>
